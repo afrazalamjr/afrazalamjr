@@ -13,3 +13,4 @@
 - ⚡ Fun fact: Football for 1 hour is My Daily Routine
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=afrazalamjr&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afrazalamjr&theme=tokyonight)
