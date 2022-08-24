@@ -1,16 +1,14 @@
-### Hi there 👋
+ Hey Visitor, Welcome 👋
+![](https://visitor-badge.laobi.icu/badge?page_id=afrazalamjrafrazalamjr)
 
-<!--
-**afrazalamjr/afrazalamjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on Graphics and Web Design
+- 🌱 I’m currently learning Blockchain Development
+- 👯 I’m looking to collaborate on Web3 Projects and recources.
+- 🤔 I’m looking for help with Solidity
+- 💬 Ask me about Web Design
+- 📫 How to reach me: https://www.linkedin.com/in/afraz-alam-7158981b3
+- ⚡ Fun fact: Football for 1 hour is My Daily Routine
+
