@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on Graphics and Web Design
+- 🔭 I’m currently working on Web Design And Development 
 - 🌱 I’m currently learning Blockchain Development
 - 👯 I’m looking to collaborate on Web3 Projects and recources.
 - 🤔 I’m looking for help with Solidity
