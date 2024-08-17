@@ -4,13 +4,13 @@
 
 
 
-- 🔭 I’m currently working on Web Design And Development 
-- 🌱 I’m currently learning Blockchain Development
-- 👯 I’m looking to collaborate on Web3 Projects and recources.
-- 🤔 I’m looking for help with Solidity
-- 💬 Ask me about Web Design
+- 🔭 I’m currently working on Blockchain Development & Web3
+- 🌱 I’m currently learning Cloud Security
+- 👯 I’m looking to collaborate on Web3 
+- 🤔 I’m looking for help with Cloud Security
+- 💬 Ask me about Blockchain
 - 📫 How to reach me: https://www.linkedin.com/in/afraz-alam-7158981b3
-- ⚡ Fun fact: Football for 1 hour is My Daily Routine
+- ⚡ Fun fact: Web3 = Web2
 
 
 
