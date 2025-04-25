@@ -1,5 +1,5 @@
 Hey Visitor, Welcome 👋  
-![](https://visitor-badge.laobi.icu/badge?page_id=afrazalamjrafrazalamjr)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=afrazalamjrafrazalamjr)
 
 - 🔭 I’m currently working on Blockchain Development & Web3  
 - 🌱 I’m currently learning Cloud Security  
