@@ -52,8 +52,14 @@ Hey Visitor, Welcome 👋
 
 ### **GitHub Stats**
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=afrazalamjr&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=afrazalamjr&show_icons=true&theme=radical&hide_border=true" alt="Afraz's GitHub Stats" />
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=afrazalamjr&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="GitHub Stats" /> 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afrazalamjr&theme=radical&hide_border=true" alt="Afraz's GitHub Streak" />
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrazalamjr&layout=compact&theme=cobalt&hide_border=true" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrazalamjr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
