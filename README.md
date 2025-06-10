@@ -1,7 +1,7 @@
 Hey Visitor, Welcome 👋  
 ![](https://visitor-badge.laobi.icu/badge?page_id=afrazalamjrafrazalamjr)
 
-- 🔭 I’m currently working on Blockchain Development & Web3  
+- 🔭 I'm currently a Blockchain Engineer 
 - 🌱 I’m currently learning Cloud Security  
 - 👯 I’m looking to collaborate on Web3  
 - 🤔 I’m looking for help with Cloud Security  
