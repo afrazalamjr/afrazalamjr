@@ -28,8 +28,6 @@ Hey Visitor, Welcome 👋
   <img src="https://img.shields.io/badge/Truffle-3C3C3C?style=for-the-badge&logo=truffle&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" />
   <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
-
-  <br/><br/>
   <!-- ☁️ Cloud & DevOps -->
   <strong>☁️ Cloud & DevOps</strong><br/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
