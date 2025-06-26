@@ -3,7 +3,7 @@ Hey Visitor, Welcome 👋
 
 - 🔭 I'm currently a Blockchain Engineer
 - 🌱 I’m currently learning Cloud Security  
-- 👯 I’m looking to collaborate on Web3  
+- 👯 I’m looking to collaborate on Web3   
 - 🤔 I’m looking for help with Cloud Security  
 - 💬 Ask me about Blockchain, Web3, Full Stack Development  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/afraz-alam-7158981b3)  
