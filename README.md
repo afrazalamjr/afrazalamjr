@@ -57,17 +57,6 @@ Hey Visitor, Welcome 👋
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
-  <!-- 🤖 AI/ML -->
-  <strong>🤖 AI/ML</strong><br/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF9900?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <!-- 🛠️ Other -->
   <strong>🛠️ Other</strong><br/>
   <img src="https://img.shields.io/badge/Microservices-FF7F50?style=for-the-badge&logo=microservices&logoColor=white" />
   <img src="https://img.shields.io/badge/OAuth%202.0-0066CC?style=for-the-badge&logo=oauth&logoColor=white" />
