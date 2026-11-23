@@ -1,13 +1,12 @@
-Hey Visitor, Welcome 👋  
+Hey Visitor, Welcome 
 ![](https://visitor-badge.laobi.icu/badge?page_id=afrazalamjrafrazalamjr)
 
-- 🔭 I'm currently a Blockchain Engineer
-- 🌱 I’m currently learning Cloud Security  
-- 👯 I’m looking to collaborate on Web3   
-- 🤔 I’m looking for help with Cloud Security  
-- 💬 Ask me about Blockchain, Web3, Full Stack Development  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/afraz-alam-7158981b3)  
-- ⚡ Fun fact: Web3 = Web2 (but decentralized 😄)
+-  I'm currently a Blockchain Engineer and security Researcher  
+-  I’m looking to collaborate on Web3   
+-  I’m looking for help with Blockchain Security  
+-  Ask me about Blockchain, Web3, Full Stack Development  
+-  How to reach me: [LinkedIn](https://www.linkedin.com/in/afraz-alam-7158981b3)  
+
 
 ---
 
